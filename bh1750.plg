@@ -1,0 +1,18 @@
+<html>
+<body>
+<pre>
+<h1>礦ision3 Build Log</h1>
+<h2>Project:</h2>
+C:\Users\zhang\Desktop\光强度模块客户资料\bh1750.uv2
+Project File Date:  06/20/2015
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling B_LUX_V20.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD_PRINT?B_LUX_V20
+Program Size: data=33.1 xdata=0 code=1849
+creating hex file from "bh1750"...
+"bh1750" - 0 Error(s), 1 Warning(s).
